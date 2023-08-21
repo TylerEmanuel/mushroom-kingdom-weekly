@@ -1,0 +1,30 @@
+{"tvListings": [
+    {
+        "id": "tv-listing-sample-0",
+        "title": "Man of Metal",
+        "station": "MKBC1",
+        "time": "9pm",
+        "genre": "Superhero drama",
+        "imgSrc": "./images/tv/metal-mario.png",
+        "desc": "A classic superhero origin story about a plumber named Mario who is able to transform himself into pure metal by putting on a metal cap, using this alter ego to fight crime with his iron strength and metallic sheen."
+
+    },
+    {
+        "id": "tv-listing-sample-1",
+        "title": "Explosive Talk with King Bob-omb",
+        "station": "MKBC1",
+        "time": "10pm",
+        "genre": "Political discussion show",
+        "imgSrc": "./images/tv/king-bomb-omb.webp",
+        "desc": "An interview with Beanbean gubernatorial election candidate Fawful, Princess Peach’s economic policy, and an in-depth look at the housing crisis in Rogueport."
+    },
+    {
+        "id": "tv-listing-sample-2",
+        "title": "The Super Mario Bros. Movie",
+        "station": "MKBC1",
+        "time": "7pm",
+        "genre": "Animated kids’ film",
+        "imgSrc": "./images/tv/mario-movie-poster.webp",
+        "desc": "Featuring a live commentary track done by several of the film’s subjects, including Mario, Luigi, Peach, and Bowser, as well as a post-film discussion roundtable. Expect plenty of mockery as they point out all the film’s inaccuracies, joke about the design choices, and critique the decision to make a film about the Mario universe without even consulting anyone who lives there."
+    }
+]}
