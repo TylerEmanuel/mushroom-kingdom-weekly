@@ -3,7 +3,8 @@ import React from "react"
 function Footer() {
     return (
         <footer className="container container--padded">
-            <span className="copyright-text">© 2023 MUSHROOM KINGDOM NEWS</span>
+            <a class="site_link" href="https://tyleremanuel.com">tyleremanuel.com</a>
+            <p class="copyright">© 2023 Tyler Emanuel</p>
         </footer>
     )
 }
