@@ -295,7 +295,7 @@ ARTICLE LINK
 .article__link:hover,
 .article__link:focus {
     cursor: pointer;
-    opacity: 70%;
+    opacity: 80%;
 }
 
 /************ 
