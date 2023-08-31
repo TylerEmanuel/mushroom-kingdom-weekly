@@ -15,7 +15,7 @@ function TvListings() {
         // timeout to simulate fetch time
         setTimeout(() => {
             updateTvListings(foundTvListings)
-        }, 200)
+        }, 25)
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 

@@ -17,7 +17,7 @@ function ToadCarousel() {
         // timeout to simulate fetch time
         setTimeout(() => {
             updateCarouselSlides(foundCarouselSlides)
-        }, 200)
+        }, 25)
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 

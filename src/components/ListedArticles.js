@@ -19,7 +19,7 @@ function ListedArticles(props) {
         // timeout to simulate fetch time
         setTimeout(() => {
             updateArticles(articleCategory, foundArticles)
-        }, 200)
+        }, 25)
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
